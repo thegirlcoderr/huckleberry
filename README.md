@@ -3,7 +3,7 @@
 This is my first workshop for Joshwcomeau's Css course for Javascript developers, I built a minimal landing page for an agency.
 
 ##Solution
-You can view my solution 
+You can view my solution on [Huckleberry](https://huckleberry.vercel.app/)
 
 This mockup is built entirely using _flow layout_: no Flexbox, no grid, no absolute positioning, no media queries. It relies heavily on padding, margin, and border, as well as some of the tricks we learned in Module 1.
 
@@ -31,7 +31,7 @@ npm run start
 
 You should see a confirmation message like this:
 
-![Screenshot of a terminal, showing a server running at http://localhost:9000](./docs/terminal-example.png)
+![Screenshot of a terminal, showing a server running at [http://localhost:9000](./docs/terminal-example.png)
 
 You can visit `http://localhost:9000` to view the page. You should see a bunch of unstyled content:
 
