@@ -2,6 +2,9 @@
 
 This is my first workshop for Joshwcomeau's Css course for Javascript developers, I built a minimal landing page for an agency.
 
+##Solution
+You can view my solution 
+
 This mockup is built entirely using _flow layout_: no Flexbox, no grid, no absolute positioning, no media queries. It relies heavily on padding, margin, and border, as well as some of the tricks we learned in Module 1.
 
 <img alt="Desktop-sized screenshot of an agency landing page" src="./docs/huckleberry-desktop.png" style="" />
@@ -105,5 +108,6 @@ Grays:
 - `hsl(0deg, 0%, 40%)` (medium)
 - `hsl(0deg, 0%, 60%)` (light)
 - `hsl(0deg, 0%, 100%)` (white)
+
 
 
