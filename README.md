@@ -5,6 +5,8 @@ This is my first workshop for Joshwcomeau's Css course for Javascript developers
 ##Solution
 You can view my solution on [Huckleberry](https://huckleberry.vercel.app/)
 
+##Task description and details 
+
 This mockup is built entirely using _flow layout_: no Flexbox, no grid, no absolute positioning, no media queries. It relies heavily on padding, margin, and border, as well as some of the tricks we learned in Module 1.
 
 <img alt="Desktop-sized screenshot of an agency landing page" src="./docs/huckleberry-desktop.png" style="" />
